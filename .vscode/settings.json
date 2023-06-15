@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "support.h": "c",
+        "s21_test.h": "c",
+        "s21_matrix.h": "c"
+    }
+}
